@@ -1,0 +1,5 @@
+# folder config
+config/
+
+# txt-files
+tmp/*.txt
