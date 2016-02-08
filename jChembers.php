@@ -6,5 +6,7 @@
 
 	
 	echo "Hello new branch";
+	echo "Hello new branch2";
+
 	
 ?>
